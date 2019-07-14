@@ -8,14 +8,10 @@ body {
 }
 
 .card {
-    padding: 1rem 2rem;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 4px 8px 8px black;
-    background: rgb(18, 63, 137);
-    border-radius: 4px;
 }
 
 .card h1 {
