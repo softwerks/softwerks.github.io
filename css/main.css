@@ -29,3 +29,12 @@ body {
 .card ul li {
     display: inline;
 }
+
+.copyright {
+    color: ivory;
+    font-size: small;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 0;
+}
