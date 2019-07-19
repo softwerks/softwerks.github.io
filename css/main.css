@@ -7,6 +7,10 @@ body {
     background: linear-gradient(to bottom right, rgba(22,95,203,1), rgba(4,50,83,1)) fixed;
 }
 
+a {
+    text-decoration: none;
+}
+
 .card {
     position: absolute;
     top: 50%;
@@ -28,6 +32,7 @@ body {
 
 .card ul li {
     display: inline;
+    padding: 0 0.5rem;
 }
 
 .copyright {
