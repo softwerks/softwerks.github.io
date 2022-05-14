@@ -1,1 +1,13 @@
-theme: jekyll-theme-slate
+title: Softwerks
+description: Homepage for Softwerks LLC.
+url: https://www.softwerks.com
+author:
+  name: Softwerks LLC
+  url: https://www.softwerks.com
+privacy: privacy@softwerks.com
+info: info@softwerks.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
