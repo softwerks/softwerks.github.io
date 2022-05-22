@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-Last updated: May 14, 2022
+Last updated: May 22, 2022
 
 We at Softwerks LLC respect Your privacy. This Privacy Policy is designed to explain how We collect, use, share, and protect the personal information You provide to Us when You access Our website, purchase Our goods or services, or engage with Us on social media, as well as Your own rights to the information We collect.
 
@@ -125,7 +125,7 @@ Our website is hosted by servers located in The United States of America. Theref
 * The transmission of data via the internet is never completely secure, and We cannot guarantee the security of data that is sent to Us electronically. Your transmission of data to Us is at Your own risk.
 * Where data that You have transmitted to Us is password protected, You are responsible for keeping the password confidential. You are exclusively responsible for any breaches of Your data that results from Your own disclosure of or failure to protect Your password.
 
-Customer data outside the U.S. may be transferred to Our website servers and/or third-party processors or subcontractors that are located in the U.S. We use Linode, LLC, Stripe, Inc., GitHub, Inc., Google LLC, and ActiveCampaign, LLC, which actively participate(s) in the U.S. Privacy Shield framework. The E.U. has determined that companies participating in the U.S. Privacy Shield have adequate safeguards in place to protect customer data.
+Customer data outside the U.S. may be transferred to Our website servers and/or third-party processors or subcontractors that are located in the U.S. We use Linode, LLC, Stripe, Inc., GitHub, Inc., Google LLC, Backblaze, Inc., and ActiveCampaign, LLC, which actively participate(s) in the U.S. Privacy Shield framework. The E.U. has determined that companies participating in the U.S. Privacy Shield have adequate safeguards in place to protect customer data.
 
 **DATA RETENTION**
 
