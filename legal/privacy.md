@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-Last updated: May 22, 2022
+Last updated: July 18, 2023
 
 We at Softwerks LLC respect Your privacy. This Privacy Policy is designed to explain how We collect, use, share, and protect the personal information You provide to Us when You access Our website, purchase Our goods or services, or engage with Us on social media, as well as Your own rights to the information We collect.
 
@@ -23,7 +23,7 @@ Derivative data is information that Our servers automatically collect about You 
 
 **FINANCIAL DATA**
 
-Financial data is data that is related to Your payment method, such as credit card or bank transfer details. We collect financial data in order to allow You to purchase, order, return, or exchange products or services from Our website. We store limited financial data. Most financial data is transferred to Our payment processor, Stripe, and You should review this processor’s Privacy Policy to determine how they use, disclose, and protect Your financial data. As a courtesy, Stripe’s Privacy Policy can be found here: https://stripe.com/privacy.
+Financial data is data that is related to Your payment method, such as credit card or bank transfer details. We collect financial data in order to allow You to purchase, order, return, or exchange products or services from Our website. We store limited financial data. Most financial data is transferred to Our payment processor, Stripe, and You should review this processor's Privacy Policy to determine how they use, disclose, and protect Your financial data. As a courtesy, Stripe's Privacy Policy can be found here: https://stripe.com/privacy.
 
 **MOBILE DEVICE DATA**
 
@@ -49,7 +49,7 @@ Specifically, We may use the information and data described above to:
 12. Generate a profile that is personalized to You, so that future interactions with Our website will be more personal; and
 13. Compile anonymous statistical data for Our own use or for a third party’s use; and
 14. Assist law enforcement as necessary; and
-16. Prevent fraudulent activity on Our website; and
+15. Prevent fraudulent activity on Our website; and
 16. Analyze trends to improve Our website and offerings.
 
 **GROUNDS FOR USING AND PROCESSING YOUR DATA**
@@ -108,13 +108,14 @@ However, We may, from time to time, process Your data internally. The legal basi
 
 1. Data associated with Your account, such as Your name, address, email address, and payment information.
 2. Data about Your usage of Our website, such as Your IP address, geographical information, and how long You accessed Our website and what You viewed.
-3. Data that You provide Us in the course of using Our services.
-4. Data that You post on Our website.
-5. Data that You submit to Us when You make an inquiry regarding Our website or offerings.
-6. Data related to Your transactions with Us, including Your purchase of Our goods or services. This information may include contact details and payment information.
-7. Data that You provide to Us when You subscribe to Our emails or newsletters, including Your email address and contact information.
-8. Data that You submit to Us via correspondence, such as when You email Us with questions.
-9. Any other data identified in this policy, for the purpose of complying with Our legal obligations, or to protect the vital interests of You or any other natural person.
+3. Data related to Your personal profile, such as Your name or address.
+4. Data that You provide Us in the course of using Our services.
+5. Data that You post on Our website.
+6. Data that You submit to Us when You make an inquiry regarding Our website or offerings.
+7. Data related to Your transactions with Us, including Your purchase of Our goods or services. This information may include contact details and payment information.
+8. Data that You provide to Us when You subscribe to Our emails or newsletters, including Your email address and contact information.
+9. Data that You submit to Us via correspondence, such as when You email Us with questions.
+10. Any other data identified in this policy, for the purpose of complying with Our legal obligations, or to protect the vital interests of You or any other natural person.
 
 **INTERNATIONAL DATA**
 
@@ -124,8 +125,6 @@ Our website is hosted by servers located in The United States of America. Theref
 * Data that is provided to Us is stored on secure servers. Payment information and other sensitive data will be encrypted to ensure its safety.
 * The transmission of data via the internet is never completely secure, and We cannot guarantee the security of data that is sent to Us electronically. Your transmission of data to Us is at Your own risk.
 * Where data that You have transmitted to Us is password protected, You are responsible for keeping the password confidential. You are exclusively responsible for any breaches of Your data that results from Your own disclosure of or failure to protect Your password.
-
-Customer data outside the U.S. may be transferred to Our website servers and/or third-party processors or subcontractors that are located in the U.S. We use Linode, LLC, Stripe, Inc., GitHub, Inc., Google LLC, Backblaze, Inc., and ActiveCampaign, LLC, which actively participate(s) in the U.S. Privacy Shield framework. The E.U. has determined that companies participating in the U.S. Privacy Shield have adequate safeguards in place to protect customer data.
 
 **DATA RETENTION**
 

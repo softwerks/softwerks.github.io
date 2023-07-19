@@ -5,7 +5,7 @@ title: Terms of Service
 
 Terms and Conditions of Use for Softwerks LLC
 
-Last Updated on May 14, 2022
+Last Updated on July 18, 2023
 
 **NOTICE:** These Terms and Conditions of Use are legally binding. It is Your responsibility to read these Terms and Conditions of Use carefully prior to purchase, use, or access of any of Our products.
 
